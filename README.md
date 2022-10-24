@@ -23,7 +23,7 @@ $ pip install -r requirements.txt
 3. Gather Images for each gesture (rock, paper and scissors and None):
 In this example, we gather 300 images for the "paper" gesture
 ```sh
-$ python3 gather_images.py rock 300
+$ python3 gather_images.py paper 300
 ```
 
 4. Train the model
